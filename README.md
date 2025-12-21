@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+## 🚀 DevDock Projects
+I am an **Active Contributor** on DevDock, building web applications and exploring modern development.
+
+### Recent Tasks
+* **[Digital Clock](https://github.com/barsha20061001/My_Portfolio/blob/main/digital-clock.html)** - A real-time clock built with HTML and CSS.
+* **[Color Changer](https://github.com/barsha20061001/My_Portfolio/blob/main/color-changer.html)** - A JavaScript-based background interaction tool.
+
 <!--
 **barsha20061001/barsha20061001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
