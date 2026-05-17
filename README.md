@@ -1,5 +1,10 @@
 ## Hi there 👋
+ I'm **Barsha Mondal** 👋  
+A passionate Web developer from NIT Jamshedpur exploring modern web technologies and software development.
 
+- 💻 Building responsive and modern web applications
+- ⚡ Interested in Full Stack Development and UI/UX Design
+- 📚 Always curious to learn new technologies and improve problem-solving skills
 
 ## 🛠️ Tech Stack
 
