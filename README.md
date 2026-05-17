@@ -13,7 +13,7 @@ A passionate Web developer from NIT Jamshedpur exploring modern web technologies
 </p>
 
 
-## 📊 GitHub Stats
+## 📊 GitHub Dashboard
 
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=barsha20061001&theme=tokyonight)
