@@ -46,6 +46,7 @@ I am an **Active Contributor** on DevDock, where I build real-world web applicat
 
 ## 🌐 Connect With Me
 
+Open to new opportunities, interesting projects, and collaborations. Feel free to reach out!
 <p align="left">
 <a href="https://github.com/barsha20061001">
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
