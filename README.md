@@ -23,6 +23,11 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=barsha20061001&theme=github_dark)
 
 
+## 🔥 Contribution Graph
+
+[![Barsha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=barsha20061001&theme=github-dark)](https://github.com/barsha20061001)
+
+---
 
 
 ## 🚀 DevDock Activity & Projects
