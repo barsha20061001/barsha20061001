@@ -8,7 +8,7 @@
 ![GitHub Streak](https://streak-stats.demolab.com/?user=barsha20061001)
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=barsha20061001&show_icons=true&theme=radical&cache_seconds=1800)
+
 
 
 
