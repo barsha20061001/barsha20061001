@@ -1,12 +1,14 @@
 ## Hi there 👋
 
+
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,vite,git,github,vscode,MongoDB,Node.js,ExpressJS,Next.js,Vercel,Render,MySQL,Python,C++,C"/>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,vite,git,github,vscode,Vercel,Render" />
 </p>
 
 ---
+
 
 ## 📊 GitHub Stats
 
