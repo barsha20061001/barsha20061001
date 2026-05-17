@@ -1,16 +1,11 @@
 ## Hi there 👋
  I'm **Barsha Mondal** 👋  
-A passionate Web developer from NIT Jamshedpur exploring modern web technologies and software development.
+A passionate Web developer from **NIT Jamshedpur** exploring modern web technologies and software development.
 
 - 💻 Building responsive and modern web applications
 - ⚡ Interested in Full Stack Development and UI/UX Design
 - 📚 Always curious to learn new technologies and improve problem-solving skills
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=barsha20061001&label=Profile%20Views&color=blue&style=for-the-badge" alt="profile views" />
-
-  <img src="https://img.shields.io/github/followers/barsha20061001?label=Followers&style=for-the-badge&color=blue" alt="followers" />
-</p>
 
 ## 🛠️ Tech Stack
 
