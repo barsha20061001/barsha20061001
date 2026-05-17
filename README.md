@@ -4,9 +4,10 @@
 
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=barsha20061001&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=barsha20061001&show_icons=true&theme=tokyonight" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=barsha20061001&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barsha20061001&layout=compact&theme=tokyonight" />
+
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=barsha20061001&theme=tokyonight)
 
