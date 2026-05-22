@@ -10,7 +10,7 @@ A passionate Web developer from **NIT Jamshedpur** exploring modern web technolo
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,vite,nodejs,express,mongodb,mysql,python,cpp,c,git,github,vscode,vercel,render" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,vite,nodejs,express,mongodb,mysql,python,cpp,c,git,github,vscode,vercel,render,Figma" />
 </p>
 
 
