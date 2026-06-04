@@ -7,6 +7,13 @@ A passionate Web developer from **NIT Jamshedpur** exploring modern web technolo
 - 📚 Always curious to learn new technologies and improve problem-solving skills
 
 
+
+<div align="center">
+  <img src="profile-3d-contrib/profile-night-view.svg" alt="me" width="700px">
+</div>
+
+<br/>
+
 ## 🛠️ Tech Stack
 
 <p align="left">
