@@ -17,7 +17,7 @@ A passionate Web developer from **NIT Jamshedpur** exploring modern web technolo
   <img src="profile-3d-contrib/profile-night-rainbow.svg" width="700px" />
 </div>
 
-
+---
 
 ## 🛠️ Tech Stack I have used and worked with
 
