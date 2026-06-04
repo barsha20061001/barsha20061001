@@ -1,11 +1,15 @@
-## Hi there 👋
- I'm **Barsha Mondal** 👋  
+## Hi , I'm **Barsha Mondal** 👋  
+
 A passionate Web developer from **NIT Jamshedpur** exploring modern web technologies and software development.
 
 - 💻 Building responsive and modern web applications
 - ⚡ Interested in Full Stack Development and UI/UX Design
 - 📚 Always curious to learn new technologies and improve problem-solving skills
 
+<br/>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D8FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Enthusiast;NIT+Jamshedpur+ECE;Problem+Solver" alt="Typing SVG" />
+</div>
 
 
 <div align="center">
@@ -17,7 +21,7 @@ A passionate Web developer from **NIT Jamshedpur** exploring modern web technolo
 ## 🛠️ Tech Stack I have used and worked with
 
 
-
+<div align="center">
 ### 💻 Languages
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,java,go" />
