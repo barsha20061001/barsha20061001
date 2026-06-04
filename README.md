@@ -14,7 +14,7 @@ A passionate Web developer from **NIT Jamshedpur** exploring modern web technolo
 
 <br/>
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack I have used and worked with
 
 
 
@@ -69,6 +69,7 @@ A passionate Web developer from **NIT Jamshedpur** exploring modern web technolo
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=barsha20061001&theme=github_dark)
 
+---
 
 ## 🔥 Contribution Graph
 
@@ -88,6 +89,8 @@ I am an **Active Contributor** on DevDock, where I build real-world web applicat
 * **Status:** Active Contributor ✅
 * **Linked Email:** barshadgp212@gmail.com
 
+---
+
 ## 🌐 Connect With Me
 
 Open to new opportunities, interesting projects, and collaborations. Feel free to reach out!
@@ -100,6 +103,13 @@ Open to new opportunities, interesting projects, and collaborations. Feel free t
 ---
 
 ⭐ From [barsha20061001](https://github.com/barsha20061001)
+---
+
+<div align="center">
+<a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=shivapreetham&style=for-the-badge&base=120">
+</a>
+</div>
 <!--
 **barsha20061001/barsha20061001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
