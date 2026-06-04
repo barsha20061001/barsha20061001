@@ -48,10 +48,7 @@ A passionate Web developer from **NIT Jamshedpur** exploring modern web technolo
   <img src="https://skillicons.dev/icons?i=html,css,js" />
 </a>
 
-### 🖥️ OS & Shell
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=windows,ubuntu />
-</a>
+
 
 </div>
 
