@@ -16,7 +16,7 @@ A passionate Web developer from **NIT Jamshedpur** exploring modern web technolo
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+
 
 ### 💻 Languages
 <a href="https://skillicons.dev">
