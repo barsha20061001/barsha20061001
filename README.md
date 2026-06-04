@@ -16,12 +16,12 @@ A passionate Web developer from **NIT Jamshedpur** exploring modern web technolo
   <img src="profile-3d-contrib/profile-night-view.svg" alt="me" width="700px">
 </div>
 
-<br/>
+
 
 ## 🛠️ Tech Stack I have used and worked with
 
 
-<div align="center">
+
 ### 💻 Languages
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,java,go" />
