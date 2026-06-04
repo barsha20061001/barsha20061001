@@ -97,6 +97,9 @@ Open to new opportunities, interesting projects, and collaborations. Feel free t
 <a href="https://github.com/barsha20061001">
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
 </a>
+   <a href="https://www.linkedin.com/in/barsha-mondal-5aa83a325"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:barshadgp212@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.google.com/maps/place/Durgapur,West Bengal"><img src="https://img.shields.io/badge/Location-Durgapur-blue?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" /></a>
 </p>
 
 ---
@@ -108,9 +111,7 @@ Open to new opportunities, interesting projects, and collaborations. Feel free t
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=barsha20061001&style=for-the-badge&base=120">
 </a>
-   <a href="https://www.linkedin.com/in/barsha-mondal-5aa83a325"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:barshadgp212@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.google.com/maps/place/Durgapur,West Bengal"><img src="https://img.shields.io/badge/Location-Durgapur-blue?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" /></a>
+  
 </div>
 <!--
 **barsha20061001/barsha20061001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
