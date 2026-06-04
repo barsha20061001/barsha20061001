@@ -81,6 +81,14 @@ A passionate Web developer from **NIT Jamshedpur** exploring modern web technolo
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/barsha20061001/barsha20061001/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
 
 ## 🚀 DevDock Activity & Projects
 I am an **Active Contributor** on DevDock, where I build real-world web applications.
