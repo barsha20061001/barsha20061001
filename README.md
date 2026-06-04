@@ -11,9 +11,10 @@ A passionate Web developer from **NIT Jamshedpur** exploring modern web technolo
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D8FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Enthusiast;NIT+Jamshedpur+ECE;Problem+Solver" alt="Typing SVG" />
 </div>
 
+---
 
 <div align="center">
-  <img src="profile-3d-contrib/profile-night-view.svg" alt="me" width="700px">
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" width="700px" />
 </div>
 
 
