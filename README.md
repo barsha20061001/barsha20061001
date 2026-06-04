@@ -16,9 +16,47 @@ A passionate Web developer from **NIT Jamshedpur** exploring modern web technolo
 
 ## 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,vite,nodejs,express,mongodb,mysql,python,cpp,c,git,github,vscode,vercel,render,Figma" />
-</p>
+<div align="center">
+
+### 💻 Languages
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,java,go" />
+</a>
+
+### 🧱 Libraries & Frameworks
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,next,tailwind,express,nodejs,vite,npm,gin" />
+</a>
+
+### 🗄️ Databases & ORMs
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=mongo,mysql,postgres,firebase,supabase,redis,prisma" />
+</a>
+
+### ☁️ Cloud & DevOps
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,cloudflare,gcp" />
+</a>
+
+### 🧰 Tools & IDEs
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,pycharm,figma" />
+</a>
+
+### 🌐 Markup & Core Stack
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</a>
+
+### 🖥️ OS & Shell
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=windows,ubuntu />
+</a>
+
+</div>
+
+<br/>
+
 
 
 ## 📊 GitHub Dashboard
