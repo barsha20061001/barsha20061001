@@ -90,20 +90,6 @@ A passionate Web developer from **NIT Jamshedpur** exploring modern web technolo
 
 ---
 
-
-## 🚀 DevDock Activity & Projects
-I am an **Active Contributor** on DevDock, where I build real-world web applications.
-
-### Featured Tasks (Live)
-* 🕒 **[Digital Clock](https://barsha20061001.github.io/My_Portfolio/digital-clock.html)** - A real-time clock built during a DevDock challenge.
-* 🎨 **[Color Changer](https://barsha20061001.github.io/My_Portfolio/color-changer.html)** - An interactive UI tool for dynamic background updates.
-
-### Stats
-* **Status:** Active Contributor ✅
-* **Linked Email:** barshadgp212@gmail.com
-
----
-
 ## 🌐 Connect With Me
 
 Open to new opportunities, interesting projects, and collaborations. Feel free to reach out!
@@ -120,7 +106,7 @@ Open to new opportunities, interesting projects, and collaborations. Feel free t
 
 <div align="center">
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=shivapreetham&style=for-the-badge&base=120">
+    <img src="https://komarev.com/ghpvc/?username=barsha20061001&style=for-the-badge&base=120">
 </a>
 </div>
 <!--
