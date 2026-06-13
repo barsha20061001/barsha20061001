@@ -30,7 +30,7 @@ A passionate Web developer from **NIT Jamshedpur** exploring modern web technolo
 
 ### 🧱 Libraries & Frameworks
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,next,tailwind,express,nodejs,vite,npm,gin" />
+  <img src="https://skillicons.dev/icons?i=react,next,tailwind,express,nodejs,vite,npm" />
 </a>
 
 ### 🗄️ Databases & ORMs
@@ -40,12 +40,12 @@ A passionate Web developer from **NIT Jamshedpur** exploring modern web technolo
 
 ### ☁️ Cloud & DevOps
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=vercel,netlify,cloudflare,gcp" />
+  <img src="https://skillicons.dev/icons?i=vercel,netlify" />
 </a>
 
 ### 🧰 Tools & IDEs
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,pycharm,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
 </a>
 
 ### 🌐 Markup & Core Stack
